@@ -20,10 +20,13 @@ Django Hospital Management System is a comprehensive application designed to eff
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Install the required dependencies using the command: `pip install -r requirements.txt`
-3. Navigate to the project directory and run the development server: `python manage.py runserver`
-4. Open your web browser and visit `http://localhost:8000` to access the application.
+1. Clone the repository to your local machine: `git clone https://github.com/waboke/Django-Hospital-Management-System.git`
+2. Change directory to the Django-Hospital-Management-System folder `cd Django-Hospital-Management-System`
+3. Activate virtual environment ` source myenv/bin/activate`
+4. Install the required dependencies using the command: `pip install -r requirements.txt`
+5. Navigate to the project directory `cd Application_Main`
+6 Run the development server: `python manage.py runserver`
+7. Open your web browser and visit `http://localhost:8000` to access the application.
 
 
 
